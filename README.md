@@ -1,4 +1,4 @@
-#Most common words from .txt
+# Most common words from .txt
 
 Code selects the most common words from a .txt file.
 
